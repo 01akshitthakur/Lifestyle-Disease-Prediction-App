@@ -1,6 +1,5 @@
 numpy==1.26.2
 scikit-learn==1.2.2
-sklearn==0.0.post11
 streamlit==1.28.1
 streamlit-option-menu==0.3.6
 pandas==2.0.2
